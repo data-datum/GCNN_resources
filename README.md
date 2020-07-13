@@ -4,11 +4,11 @@
 ## Papers with code
 ------------------------------------------------------------------------------------------------------------------------------------
 ### * DeepChemStable: Chemical Stability Prediction with an Attention-Based Graph Convolution Network (Li, 2019)
-* https://bit.ly/2ZnWvJC
+* [Link del paper](https://bit.ly/2ZnWvJC)
 * [Repositorio](https://github.com/MingCPU/DeepChemStable)
 
 ### Graph Networks as a Universal Machine Learning Framework for Molecules and Crystals (2019)
-https://github.com/materialsvirtuallab/megnet
+* [Repositorio](https://github.com/materialsvirtuallab/megnet)
 
 ### Pushing the Boundaries of Molecular Representation for Drug Discovery with the Graph Attention Mechanism (Xiong, 2019)
 * https://bit.ly/2Dy8JqA
