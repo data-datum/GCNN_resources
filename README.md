@@ -1,4 +1,4 @@
-# GCNN_resources
+# Graph Convolutional Neural Networks and Graph Neural Networks - Resources
 
 
 ## Papers with code
