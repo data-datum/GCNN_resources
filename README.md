@@ -1,6 +1,9 @@
 # Graph Convolutional Neural Networks and Graph Neural Networks - Resources
 
 
+## [CS224W: Machine Learning with Graphs - Stanford Course Resources](http://web.stanford.edu/class/cs224w/)
+
+
 ## Papers with code
 ------------------------------------------------------------------------------------------------------------------------------------
 ### * DeepChemStable: Chemical Stability Prediction with an Attention-Based Graph Convolution Network (Li, 2019)
@@ -38,3 +41,4 @@
 * [[IPAM2019] Thomas Kipf "Unsupervised Learning with Graph Neural Networks"](https://www.youtube.com/watch?v=9jSFBcptZ9A)
 * [A Literature Review on Graph Neural Networks](https://www.youtube.com/watch?v=54ohmr2LYuI)
 * [Learning the Structure of Graph Neural Networks | Mathias Niepert | heidelberg.ai](https://www.youtube.com/watch?v=9XoCQn34tXo)
+* [CS224W Classes Playlist](https://www.youtube.com/playlist?list=PL1OaWjIc3zJ4xhom40qFY5jkZfyO5EDOZ)
