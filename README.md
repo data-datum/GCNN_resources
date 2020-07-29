@@ -37,3 +37,4 @@
 * [Learning Equivariant and Hybrid Message Passing on Graphs | Max Welling](https://www.youtube.com/watch?v=zR7MgubNSqg)
 * [[IPAM2019] Thomas Kipf "Unsupervised Learning with Graph Neural Networks"](https://www.youtube.com/watch?v=9jSFBcptZ9A)
 * [A Literature Review on Graph Neural Networks](https://www.youtube.com/watch?v=54ohmr2LYuI)
+* [Learning the Structure of Graph Neural Networks | Mathias Niepert | heidelberg.ai](https://www.youtube.com/watch?v=9XoCQn34tXo)
