@@ -42,3 +42,53 @@
 * [A Literature Review on Graph Neural Networks](https://www.youtube.com/watch?v=54ohmr2LYuI)
 * [Learning the Structure of Graph Neural Networks | Mathias Niepert | heidelberg.ai](https://www.youtube.com/watch?v=9XoCQn34tXo)
 * [CS224W Classes Playlist](https://www.youtube.com/playlist?list=PL1OaWjIc3zJ4xhom40qFY5jkZfyO5EDOZ)
+
+## RIIAA materiales
+
+# Tutorial: Graph Neural Networks
+* Repo: https://github.com/beangoben/gnn_workshop_riiaa
+### Material Previo
+* Un review paper de GNNs: https://arxiv.org/abs/1806.01261 
+* Usaremos el codigo de deepmind: https://github.com/deepmind/graph_nets 
+* Usaremos dos datasets del Open Graph Database: https://ogb.stanford.edu/
+
+
+
+# Tutorial: Atribución en Grafos
+* Repo: https://github.com/beangoben/gnn_workshop_riiaa
+
+### Material Previo
+
+* Un buen review de attribution: https://arxiv.org/abs/1711.06104 
+* Un review paper de GNNs: https://arxiv.org/abs/1806.01261 
+* Usaremos el codigo de deepmind: https://github.com/deepmind/graph_nets 
+* Distill post sobre attribucion: https://distill.pub/2020/attribution-baselines/
+
+Link de google colab:
+https://colab.research.google.com/github/beangoben/gnn_workshop_riiaa/blob/master/Prediccion_de_Grafos_y_attribucion.ipynb?authuser=1#scrollTo=5DA0QH4Tovux 
+
+
+# Tutorial: Machine Learning y Moléculas
+* Repo: https://github.com/beangoben/ML_DL_con_moleculas 
+
+### Maeterial Previo
+
+* Usaremos rdkit para manipular moleculas: https://www.rdkit.org/ 
+* Usaremos scikit-learn para modelos de ML: https://scikit-learn.org/stable/ 
+* Usaremos tensorflow/sonnet/graphnets para deep learning con molecules: https://www.tensorflow.org/, https://github.com/deepmind/sonnet, https://github.com/deepmind/graph_nets 
+* Para reducción de dimensionalidad usaremos UMAP: https://pair-code.github.io/understanding-umap/supplement.html 
+* Para descriptores quimo-informáticos usaremos mordred: https://github.com/mordred-descriptor/mordred 
+https://jcheminf.biomedcentral.com/articles/10.1186/s13321-018-0258-y (paper de modred)
+* Un review de deep learning e inverse design: https://science.sciencemag.org/content/361/6400/360.abstract
+
+# Tutorial: Deep Learning con JAX
+* Repo: https://github.com/beangoben/intro_dl 
+
+### Material Previo
+* La parte 1 de "Deep Learning de Ian Goodfellow" (https://github.com/janishar/mit-deep-learning-book-pdf/tree/master/chapter-wise-pdf), 
+en particular capitulo 3,4 y 5.
+* El github de Jax: https://github.com/google/jax
+* El github de Flax: https://github.com/google/flax
+* Video introductorio a Jax: https://www.youtube.com/watch?v=0mVmRHMaOJ4
+* Video introductorio a diferenciación automática: https://www.youtube.com/watch?v=NG21KWZSiok
+
