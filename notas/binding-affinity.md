@@ -27,6 +27,19 @@ Código: https://github.com/tbwxmu/SAMPN
 
 Código: https://github.com/llnl/fast 
 
+* (2018) [Visualizing Convolutional Neural Network Protein-Ligand Scoring](https://arxiv.org/abs/1803.02398)
+
+* (2019) [WideDTA: prediction of drug-target binding affinity](https://arxiv.org/abs/1902.04166)
+
+* (2018) [ChemBoost: A chemical language based approach for protein-ligand binding affinity prediction](https://arxiv.org/abs/1811.00761)
+
+* (2019) [DeepAtom: A Framework for Protein-Ligand Binding Affinity Prediction](https://arxiv.org/abs/1912.00318)
+
+* (2020) [InteractionNet: Modeling and Explaining of Noncovalent Protein-Ligand Interactions with Noncovalent Graph Neural Network and Layer-Wise Relevance Propagation](https://arxiv.org/abs/2005.13438)
+
+* (2019) [PIGNet: A physics-informed deep learning model toward generalized drug-target interaction predictions](https://arxiv.org/abs/2008.12249)
+
+
 
 --------------------------------------
 **Otros papers sin código** (útil para referencias o introducción, discusión, etc)
